@@ -12,7 +12,7 @@ https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/NEZHA-Tenso
 
 ## 下载地址
 
-（上传中）
+链接: https://pan.baidu.com/s/1G4GAxoaJ1e9oWPCGN7591Q 提取码: npxf
 
 ## 转换代码
 
